@@ -1,0 +1,8 @@
+01. Microsoft.EntityFrameworkCore
+02. Microsoft.EntityFrameworkCore.SqlServer
+03. Microsoft.EntityFrameworkCore.Tools
+
+#=============================Migrations=============================#
+
+01. add-migration AddCategoryToDatabase
+02. update-database
